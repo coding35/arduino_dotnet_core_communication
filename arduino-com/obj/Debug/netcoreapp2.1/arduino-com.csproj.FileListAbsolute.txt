@@ -1,0 +1,11 @@
+C:\sandbox\arduino-com\arduino-com\bin\Debug\netcoreapp2.1\arduino-com.deps.json
+C:\sandbox\arduino-com\arduino-com\bin\Debug\netcoreapp2.1\arduino-com.runtimeconfig.json
+C:\sandbox\arduino-com\arduino-com\bin\Debug\netcoreapp2.1\arduino-com.runtimeconfig.dev.json
+C:\sandbox\arduino-com\arduino-com\bin\Debug\netcoreapp2.1\arduino-com.dll
+C:\sandbox\arduino-com\arduino-com\bin\Debug\netcoreapp2.1\arduino-com.pdb
+C:\sandbox\arduino-com\arduino-com\obj\Debug\netcoreapp2.1\arduino-com.csprojAssemblyReference.cache
+C:\sandbox\arduino-com\arduino-com\obj\Debug\netcoreapp2.1\arduino-com.csproj.CoreCompileInputs.cache
+C:\sandbox\arduino-com\arduino-com\obj\Debug\netcoreapp2.1\arduino-com.AssemblyInfoInputs.cache
+C:\sandbox\arduino-com\arduino-com\obj\Debug\netcoreapp2.1\arduino-com.AssemblyInfo.cs
+C:\sandbox\arduino-com\arduino-com\obj\Debug\netcoreapp2.1\arduino-com.dll
+C:\sandbox\arduino-com\arduino-com\obj\Debug\netcoreapp2.1\arduino-com.pdb
